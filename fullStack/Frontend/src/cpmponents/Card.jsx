@@ -24,7 +24,8 @@ const Card = () => {
   //  // console.log(res.data.notes)
   //   setNote(res.data.notes)
   //  })
-
+ 
+  
 
   function handleSubmit(e) {
     e.preventDefault()
